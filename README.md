@@ -1,11 +1,11 @@
-# Challenge : a Python bot 
+# Challenge : Python bot 
 
 ## Author : 
 [Selassi Zakaria](https://www.linkedin.com/in/zakariaselassi/)
 
 ## Objectif to achieve :
 
-1) Comprendre le fonctionnement d'un bot python
+1) Understanding how a python bot works
 2) Find a way to setup a environement
 3) create a beginner bot that make stuff 
 
